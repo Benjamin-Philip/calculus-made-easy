@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Calculus Made Easy"
+
+[params]
+  description = "My notes and solutions to Calculus Made Easy by Silvanus P. Thompson"
+  themeColor = "theme-base-09"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/spf13/hyde'
