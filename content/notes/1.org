@@ -1,0 +1,16 @@
+#+title: To Deliver You From The Preliminary Terrors
+#+date: <2024-07-29 Mon>
+#+category: notes
+#+weight: 1
+
+[[https://calculusmadeeasy.org/1.html][Here]], Thompson introduces the two symbols of Calculus:
+
+* $d$
+- $d$ means "a little bit of", or "an element of".
+- $dx$ means a little bit of $x$.
+- These elements can be thought of as infinitesimally small.
+* $\int$
+- $\int$ is just a long /S/.
+- It  can be called "the sum of".
+- $\int dx$ refers to the sum of the all the little of bits of $x$ which is $x$ itself.
+- Formally, it means the "the integral of", which itself means "the whole of".
