@@ -1,0 +1,55 @@
+#+title: On Different Degrees of Smallness
+#+date: <2024-07-30 Tue>
+#+weight: 2
+
+We will have to deal with small quantities of various degrees of smallness. We
+will then also need to understand when we can neglect them.
+
+* Smallness
+
+A quantity can be considered small relative to another quantity. Thompson gives
+various examples to illustrate this:
+
+- A minute is small compared to a week (there are 10080 minutes in the week).
+- A second is an even smaller quantity.
+- The erstwhile farthing is small compared to the erstwhile sovereign.
+- They both have no importance compared to £1000.
+
+* Orders of Smallness
+
+If we definite a fraction or something to be small, then there exists other
+functions of a higher degree of smallness. These are called as order of
+"magnitude" by mathematicians. For example:
+
+- Let a minute be small compared to ($\frac{1}{60}$ of) an hour.
+- Then a second ($\frac{1}{60}$ of $\frac{1}{60}$ of an hour) is of the second
+  order of smallness.
+- If 1% (i.e. $\frac{1}{100}$) were a small fraction, 1% of 1% (i.e.
+  $\frac{1}{10,000}$) would of the second order of smallness.
+- 1% of 1% of 1% (i.e. $\frac{1}{1,000,000}$) would be of the third order of
+  smallness.
+
+* Neglecting Quantities
+
+Higher orders of small quantities are negligible if the first order is small
+enough itself:
+
+- Let $x$ grew by a small quantity to become $x + dx$.
+- Then its square becomes $x^2 + 2x · dx + (dx)^2$.
+- $2x · dx$ is not negligible since it is a first order quantity.
+- However, we can ignore $(dx)^2$ since it is of the second order.
+
+* A Geometrical Interpretation
+
+The previous example can be interpreted geometrically. Consider a square of
+length $x$:
+
+[[https://calculusmadeeasy.org/33283-t/images/018a.pdf.png-1.png]]
+
+Once $x$ grows by $dx$, it becomes:
+
+[[https://calculusmadeeasy.org/33283-t/images/019a.pdf.png-1.png]]
+
+However, we can only neglect $(dx)^2$ by setting $dx$ to be small enough:
+
+[[https://calculusmadeeasy.org/33283-t/images/019b.pdf.png-1.png]]
