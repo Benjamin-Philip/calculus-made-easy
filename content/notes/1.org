@@ -11,6 +11,7 @@
 - These elements can be thought of as infinitesimally small.
 * $\int$
 - $\int$ is just a long /S/.
-- It  can be called "the sum of".
-- $\int dx$ refers to the sum of the all the little of bits of $x$ which is $x$ itself.
+- It can be called "the sum of".
+- $\int dx$ refers to the sum of the all the little of bits of $x$ which is $x$
+  itself.
 - Formally, it means the "the integral of", which itself means "the whole of".
